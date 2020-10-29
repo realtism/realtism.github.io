@@ -1,0 +1,1082 @@
+{
+    "data": {
+        "home": {
+            "local": {
+                "flood": {
+                    "flood_factor_score": 5,
+                    "fema_zone": [
+                        "X"
+                    ]
+                }
+            },
+            "advertisers": [
+                {
+                    "team_name": null,
+                    "office": {
+                        "phones": [
+                            {
+                                "ext": null,
+                                "number": "(888) 764-8232",
+                                "primary": true,
+                                "trackable": null,
+                                "type": "Office"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "suppression_flags": {
+                "has_suppress_foreclosure": true,
+                "has_suppress_sold_info": true
+            },
+            "property_id": "1343579554",
+            "listing_id": "2922000158",
+            "status": "for_sale",
+            "coming_soon_date": null,
+            "permalink": "8837-Redwood-Blvd_California-City_CA_93505_M13435-79554",
+            "products": {
+                "brand_name": "basic_opt_in"
+            },
+            "list_price": 179900,
+            "list_price_min": null,
+            "list_price_max": null,
+            "price_per_sqft": 116,
+            "list_date": "2020-10-02T15:05:10Z",
+            "other_listings": {
+                "rdc": [
+                    {
+                        "listing_id": "2922000158",
+                        "status": "for_sale"
+                    },
+                    {
+                        "listing_id": "2708039570",
+                        "status": "off_market"
+                    },
+                    {
+                        "listing_id": "542834996",
+                        "status": "off_market"
+                    },
+                    {
+                        "listing_id": "542835228",
+                        "status": "off_market"
+                    }
+                ]
+            },
+            "community": null,
+            "matterport": null,
+            "virtual_tours": null,
+            "lead_attributes": {
+                "opcity_lead_attributes": {
+                    "flip_the_market_enabled": false,
+                    "cashback_enabled": false,
+                    "phones": null
+                },
+                "ready_connect_mortgage": {
+                    "show_contact_a_lender": true,
+                    "show_veterans_united": true
+                },
+                "show_contact_an_agent": true,
+                "lead_type": "co_broke",
+                "show_lead_form": true,
+                "disclaimer_text": null,
+                "is_tcpa_message_enabled": null,
+                "show_text_leads": true
+            },
+            "flags": {
+                "is_pending": true,
+                "is_contingent": null,
+                "is_new_listing": false,
+                "is_new_construction": null,
+                "is_short_sale": null,
+                "is_foreclosure": null,
+                "is_price_reduced": null,
+                "is_senior_community": null,
+                "is_deal_available": null,
+                "is_price_excludes_land": null,
+                "is_subdivision": null,
+                "is_coming_soon": null
+            },
+            "source": {
+                "id": "AVCA",
+                "disclaimer": {
+                    "text": "©2020  Greater Antelope Valley Association of REALTORS®. All rights reserved.",
+                    "href": null
+                },
+                "listing_id": "20007931",
+                "name": "GreaterAntelope",
+                "type": "mls",
+                "spec_id": null,
+                "plan_id": null,
+                "raw": {
+                    "style": "Traditional",
+                    "tax_amount": null
+                }
+            },
+            "details": [
+                {
+                    "category": "Bathrooms",
+                    "text": [
+                        "Total Bathrooms: 2.00",
+                        "Full Bathrooms: 2"
+                    ]
+                },
+                {
+                    "category": "Bedrooms",
+                    "text": [
+                        "Bedrooms: 3"
+                    ]
+                },
+                {
+                    "category": "Appliances",
+                    "text": [
+                        "Laundry Facilities: Area"
+                    ]
+                },
+                {
+                    "category": "Heating and Cooling",
+                    "text": [
+                        "Cooling Features: Central Air/Refrig",
+                        "Fireplace Features: Family Room"
+                    ]
+                },
+                {
+                    "category": "Land Info",
+                    "text": [
+                        "Lot Size Acres: 0.23",
+                        "Lot Size Square Feet: 10019"
+                    ]
+                },
+                {
+                    "category": "Garage and Parking",
+                    "text": [
+                        "Garage Spaces: 2",
+                        "Garage Description: Attached Garage, Direct Access Garage",
+                        "RV Parking Features: Possible"
+                    ]
+                },
+                {
+                    "category": "Homeowners Association",
+                    "text": [
+                        "Association: No",
+                        "Calculated Total Monthly Association Fees: 0"
+                    ]
+                },
+                {
+                    "category": "Amenities and Community Features",
+                    "text": [
+                        "Horse Amenities: No"
+                    ]
+                },
+                {
+                    "category": "Other Property Info",
+                    "text": [
+                        "Source Listing Status: Pending",
+                        "County: Kern",
+                        "Cross Street: Airway Blvd",
+                        "Directions: Cal City Blvd, S on Airway Blvd, Turn left on Redwood.",
+                        "Source Property Type: SFD",
+                        "Area: 17 - Kern Co/Mojave/Cal C",
+                        "Source Neighborhood: 17 - Kern Co/Mojave/Cal C",
+                        "Parcel Number: 203-373-21",
+                        "Zoning: R1",
+                        "Source System Name: C2C"
+                    ]
+                },
+                {
+                    "category": "Building and Construction",
+                    "text": [
+                        "Total Square Feet Living: 1548.00",
+                        "Year Built: 1988",
+                        "Construction Materials: Stucco, Wood",
+                        "Foundation Details: Concrete Slab",
+                        "Levels: 1 Story",
+                        "Property Age: 32",
+                        "Roof: Composition",
+                        "Levels or Stories: 1",
+                        "Structure Type: Property Type: A, Housing Type: SFD",
+                        "House Style: Traditional"
+                    ]
+                },
+                {
+                    "category": "Utilities",
+                    "text": [
+                        "Sewer: Septic System",
+                        "Natural Gas"
+                    ]
+                }
+            ],
+            "open_houses": null,
+            "tax_history": [
+                {
+                    "tax": 1635,
+                    "year": 2019,
+                    "assessment": {
+                        "building": 92000,
+                        "land": 31000,
+                        "total": 123000
+                    }
+                },
+                {
+                    "tax": 1553,
+                    "year": 2018,
+                    "assessment": {
+                        "building": 111000,
+                        "land": 5000,
+                        "total": 116000
+                    }
+                },
+                {
+                    "tax": 1371,
+                    "year": 2017,
+                    "assessment": {
+                        "building": 91000,
+                        "land": 5000,
+                        "total": 96000
+                    }
+                },
+                {
+                    "tax": 1099,
+                    "year": 2016,
+                    "assessment": {
+                        "building": 75000,
+                        "land": 5000,
+                        "total": 80000
+                    }
+                },
+                {
+                    "tax": 1031,
+                    "year": 2015,
+                    "assessment": {
+                        "building": 55000,
+                        "land": 18000,
+                        "total": 73000
+                    }
+                },
+                {
+                    "tax": 923,
+                    "year": 2014,
+                    "assessment": {
+                        "building": 60000,
+                        "land": 5000,
+                        "total": 65000
+                    }
+                },
+                {
+                    "tax": 708,
+                    "year": 2013,
+                    "assessment": {
+                        "building": 43400,
+                        "land": 3000,
+                        "total": 46400
+                    }
+                },
+                {
+                    "tax": 754,
+                    "year": 2012,
+                    "assessment": {
+                        "building": 40400,
+                        "land": 6000,
+                        "total": 46400
+                    }
+                },
+                {
+                    "tax": 681,
+                    "year": 2011,
+                    "assessment": {
+                        "building": 40400,
+                        "land": 6000,
+                        "total": 46400
+                    }
+                },
+                {
+                    "tax": 679,
+                    "year": 2010,
+                    "assessment": {
+                        "building": 40400,
+                        "land": 6000,
+                        "total": 46400
+                    }
+                },
+                {
+                    "tax": 1690,
+                    "year": 2009,
+                    "assessment": {
+                        "building": 120943,
+                        "land": 8003,
+                        "total": 128946
+                    }
+                },
+                {
+                    "tax": 1515,
+                    "year": 2007,
+                    "assessment": null
+                }
+            ],
+            "hoa": {
+                "fee": 0
+            },
+            "property_history": [
+                {
+                    "date": "2020-10-02",
+                    "event_name": "Listed",
+                    "price": 179900,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": 116.21447028423772
+                },
+                {
+                    "date": "2020-08-28",
+                    "event_name": "Sold",
+                    "price": 100000,
+                    "source_name": "Public Record",
+                    "price_sqft": 64.59948320413437
+                },
+                {
+                    "date": "2020-01-05",
+                    "event_name": "Listing removed",
+                    "price": 0,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": null
+                },
+                {
+                    "date": "2019-10-03",
+                    "event_name": "Listed",
+                    "price": 169900,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": 109.75452196382429
+                },
+                {
+                    "date": "2012-12-26",
+                    "event_name": "Listing removed",
+                    "price": 88500,
+                    "source_name": "CaliforniaCity",
+                    "price_sqft": 57.17054263565891
+                },
+                {
+                    "date": "2012-12-18",
+                    "event_name": "Listing removed",
+                    "price": 88500,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": 57.17054263565891
+                },
+                {
+                    "date": "2012-10-21",
+                    "event_name": "Price Changed",
+                    "price": 88500,
+                    "source_name": "CaliforniaCity",
+                    "price_sqft": 57.17054263565891
+                },
+                {
+                    "date": "2012-08-17",
+                    "event_name": "Price Changed",
+                    "price": 88500,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": 57.17054263565891
+                },
+                {
+                    "date": "2012-06-30",
+                    "event_name": "Listed",
+                    "price": 98500,
+                    "source_name": "GreaterAntelope",
+                    "price_sqft": 63.63049095607235
+                },
+                {
+                    "date": "2012-06-30",
+                    "event_name": "Listed",
+                    "price": 98500,
+                    "source_name": "CaliforniaCity",
+                    "price_sqft": 63.63049095607235
+                },
+                {
+                    "date": "1988-11-23",
+                    "event_name": "Sold",
+                    "price": 88500,
+                    "source_name": "Public Record",
+                    "price_sqft": 57.17054263565891
+                }
+            ],
+            "location": {
+                "parcel": {
+                    "boundary": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    -117.970344956949,
+                                    35.1115586989449
+                                ],
+                                [
+                                    -117.97061600102501,
+                                    35.1115572013031
+                                ],
+                                [
+                                    -117.970619240153,
+                                    35.1118848157387
+                                ],
+                                [
+                                    -117.970348154413,
+                                    35.1118863151806
+                                ],
+                                [
+                                    -117.970344956949,
+                                    35.1115586989449
+                                ]
+                            ]
+                        ]
+                    }
+                },
+                "city": {
+                    "slug_id": "California-City_CA"
+                },
+                "county": {
+                    "name": "Kern",
+                    "fips_code": "06029"
+                },
+                "address": {
+                    "line": "8837 Redwood Blvd",
+                    "street_number": "8837",
+                    "street_direction": null,
+                    "street_name": "Redwood",
+                    "street_suffix": "Blvd",
+                    "street_post_direction": null,
+                    "unit": null,
+                    "city": "California City",
+                    "state_code": "CA",
+                    "postal_code": "93505",
+                    "country": "USA",
+                    "validation_code": "121",
+                    "state": "California",
+                    "coordinate": {
+                        "lat": 35.111717,
+                        "lon": -117.97047
+                    }
+                },
+                "cross_street": null,
+                "driving_directions": null,
+                "neighborhoods": null
+            },
+            "branding": [
+                {
+                    "type": "Agent",
+                    "photo": null,
+                    "name": "Karla Salazar",
+                    "phone": null,
+                    "slogan": null,
+                    "accent_color": null
+                },
+                {
+                    "type": "Office",
+                    "photo": null,
+                    "name": "Capitol Real Estate Group, Inc.",
+                    "phone": null,
+                    "slogan": null,
+                    "accent_color": null
+                }
+            ],
+            "provider_url": null,
+            "builder": null,
+            "tags": [
+                "central_air",
+                "family_room",
+                "fireplace",
+                "laundry_room",
+                "community_outdoor_space",
+                "single_story",
+                "garage_1_or_more",
+                "garage_2_or_more"
+            ],
+            "videos": null,
+            "consumer_advertisers": [
+                {
+                    "advertiser_id": "2713856",
+                    "agent_id": "2713856",
+                    "broker_id": null,
+                    "name": "Karla Salazar",
+                    "type": "Agent",
+                    "slogan": null,
+                    "phone": null,
+                    "href": "/realestateagents/Karla-Salazar_California-City_CA_2713856_797524948",
+                    "address": null,
+                    "photo": {
+                        "description": null,
+                        "href": null,
+                        "type": null
+                    },
+                    "show_realtor_logo": true,
+                    "hours": null,
+                    "contact_name": null
+                },
+                {
+                    "advertiser_id": "2713856",
+                    "agent_id": "2713856",
+                    "broker_id": null,
+                    "name": "Capitol Real Estate Group, Inc.",
+                    "type": "Office",
+                    "slogan": null,
+                    "phone": "(888) 764-8232",
+                    "href": null,
+                    "address": {
+                        "city": "",
+                        "state_code": ""
+                    },
+                    "photo": {
+                        "description": null,
+                        "href": null,
+                        "type": null
+                    },
+                    "show_realtor_logo": false,
+                    "hours": null,
+                    "contact_name": null
+                }
+            ],
+            "unit_count": null,
+            "units": null,
+            "description": {
+                "baths": 2,
+                "baths_full": 2,
+                "baths_3qtr": null,
+                "baths_half": null,
+                "baths_1qtr": null,
+                "baths_min": null,
+                "baths_max": null,
+                "beds_min": null,
+                "beds_max": null,
+                "beds": 3,
+                "garage": 2,
+                "pool": null,
+                "sqft": 1548,
+                "sqft_min": null,
+                "sqft_max": null,
+                "lot_sqft": 10019,
+                "rooms": null,
+                "stories": 1,
+                "sub_type": null,
+                "text": "Beautifully updated home! This Home features New Interior Two Tone Paint, some New Exterior Paint, New Fixtures and More! Kitchen has Newly painted cabinets with New hardware, New Custom Counter-Tops, New Sink & Faucet, and New Flooring. Bedrooms all have New upgraded Carpet, Newer Doors, and New Light Fixtures. Bathrooms have New Counter Tops, New Flooring and Newly Glazed Showers. Windows Have New Coverings and Garage has New Door. Backyard is great size and ready for your personal design. A Must see Home.",
+                "type": "single_family",
+                "units": null,
+                "unit_type": null,
+                "year_built": 1988,
+                "name": null
+            },
+            "photo_count": 21,
+            "photos": [
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m362096180s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.9434884786605835
+                        },
+                        {
+                            "label": "porch",
+                            "probability": 0.0540989488363266
+                        },
+                        {
+                            "label": "house_view",
+                            "probability": 0.0013699738774448633
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m2683487325s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "kitchen",
+                            "probability": 0.9841986894607544
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.015729473903775215
+                        },
+                        {
+                            "label": "bathroom",
+                            "probability": 0.000042343137465650216
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m4245865498s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "kitchen",
+                            "probability": 0.5418593287467957
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.4555604159832001
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.0011162379523739219
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3437144466s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "living_room",
+                            "probability": 0.9976866245269775
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.002152994042262435
+                        },
+                        {
+                            "label": "bedroom",
+                            "probability": 0.00008033580525079742
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3373079050s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.9318975210189819
+                        },
+                        {
+                            "label": "bathroom",
+                            "probability": 0.067942775785923
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.0001327578938798979
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m136418769s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.983156144618988
+                        },
+                        {
+                            "label": "bedroom",
+                            "probability": 0.007669931277632713
+                        },
+                        {
+                            "label": "kitchen",
+                            "probability": 0.004988092929124832
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m1756290156s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.8984645009040833
+                        },
+                        {
+                            "label": "kitchen",
+                            "probability": 0.1010180413722992
+                        },
+                        {
+                            "label": "bathroom",
+                            "probability": 0.0003744465939234942
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m705075600s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bathroom",
+                            "probability": 0.9767934083938599
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.02308533526957035
+                        },
+                        {
+                            "label": "bedroom",
+                            "probability": 0.00003713473051902838
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m13081752s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bedroom",
+                            "probability": 0.5520959496498108
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.23103438317775726
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.18478094041347504
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m4033730204s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bedroom",
+                            "probability": 0.9989147186279297
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.0010834907880052924
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.0000010663072771421866
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m2516892918s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bathroom",
+                            "probability": 0.9660909175872803
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.03140604496002197
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.0022909059189260006
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3781129399s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bathroom",
+                            "probability": 0.9977987408638
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.002179462229833007
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.000014461510545515921
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m173078272s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bathroom",
+                            "probability": 0.9992107152938843
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.0005482299602590501
+                        },
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.00014144052693154663
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m1983230124s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "bedroom",
+                            "probability": 0.9950900077819824
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.004175299312919378
+                        },
+                        {
+                            "label": "living_room",
+                            "probability": 0.0007212450727820396
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m174014096s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "laundry_room",
+                            "probability": 0.6449300050735474
+                        },
+                        {
+                            "label": "bathroom",
+                            "probability": 0.27383071184158325
+                        },
+                        {
+                            "label": "unknown",
+                            "probability": 0.07788463681936264
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3362723505s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "unknown",
+                            "probability": 0.5938528180122375
+                        },
+                        {
+                            "label": "garage",
+                            "probability": 0.39702388644218445
+                        },
+                        {
+                            "label": "road_view",
+                            "probability": 0.002602647291496396
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3316826954s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.4501868486404419
+                        },
+                        {
+                            "label": "porch",
+                            "probability": 0.30907976627349854
+                        },
+                        {
+                            "label": "garage",
+                            "probability": 0.17215657234191895
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3982278078s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "road_view",
+                            "probability": 0.999674916267395
+                        },
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.00029935649945400655
+                        },
+                        {
+                            "label": "porch",
+                            "probability": 0.000013539646715798881
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m2089449226s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "yard",
+                            "probability": 0.639160692691803
+                        },
+                        {
+                            "label": "road_view",
+                            "probability": 0.3052418828010559
+                        },
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.029185719788074493
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m3330422027s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.9422965049743652
+                        },
+                        {
+                            "label": "porch",
+                            "probability": 0.05556848645210266
+                        },
+                        {
+                            "label": "house_view",
+                            "probability": 0.0010602816473692656
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "href": "https://ap.rdcpix.com/866d521290a44010aebd05e79eca9925l-m639087270s.jpg",
+                    "type": "realtordotcom_mls_listing_image",
+                    "title": null,
+                    "tags": [
+                        {
+                            "label": "porch_yard",
+                            "probability": 0.8541038036346436
+                        },
+                        {
+                            "label": "porch",
+                            "probability": 0.13735038042068481
+                        },
+                        {
+                            "label": "house_view",
+                            "probability": 0.005089708138257265
+                        }
+                    ]
+                }
+            ],
+            "schools": {
+                "total": 4,
+                "schools": [
+                    {
+                        "id": "078590231",
+                        "name": "Robert P. Ulrich Elementary School",
+                        "slug": "robert-p-ulrich-elementary-school_078590231",
+                        "education_levels": [
+                            "elementary"
+                        ],
+                        "distance_in_miles": 0.8,
+                        "student_teacher_ratio": 22.4,
+                        "rating": null,
+                        "grades": [
+                            "K",
+                            "1",
+                            "2"
+                        ],
+                        "funding_type": "public",
+                        "student_count": 527,
+                        "review_count": 7,
+                        "parent_rating": 3,
+                        "assigned": true
+                    },
+                    {
+                        "id": "078590141",
+                        "name": "California City Middle School",
+                        "slug": "california-city-middle-school_078590141",
+                        "education_levels": [
+                            "middle"
+                        ],
+                        "distance_in_miles": 0.9,
+                        "student_teacher_ratio": 18.5,
+                        "rating": 2,
+                        "grades": [
+                            "6",
+                            "7",
+                            "8"
+                        ],
+                        "funding_type": "public",
+                        "student_count": 493,
+                        "review_count": 4,
+                        "parent_rating": 2,
+                        "assigned": true
+                    },
+                    {
+                        "id": "078824321",
+                        "name": "California City High School",
+                        "slug": "california-city-high-school_078824321",
+                        "education_levels": [
+                            "high"
+                        ],
+                        "distance_in_miles": 1.8,
+                        "student_teacher_ratio": 21.6,
+                        "rating": 4,
+                        "grades": [
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ],
+                        "funding_type": "public",
+                        "student_count": 520,
+                        "review_count": 4,
+                        "parent_rating": 5,
+                        "assigned": true
+                    },
+                    {
+                        "id": "078787551",
+                        "name": "Western Education Center",
+                        "slug": "western-education-center_078787551",
+                        "education_levels": [
+                            "elementary",
+                            "middle",
+                            "high"
+                        ],
+                        "distance_in_miles": 1,
+                        "student_teacher_ratio": null,
+                        "rating": null,
+                        "grades": [
+                            "5",
+                            "6",
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12"
+                        ],
+                        "funding_type": "private",
+                        "student_count": 10,
+                        "review_count": 0,
+                        "parent_rating": null,
+                        "assigned": null
+                    }
+                ]
+            }
+        }
+    }
+}
