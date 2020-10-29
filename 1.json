@@ -1,0 +1,837 @@
+{
+  "data": {
+    "home": {
+      "local": {
+        "flood": null
+      },
+      "advertisers": [
+        {
+          "team_name": null,
+          "office": {
+            "phones": [
+              {
+                "ext": null,
+                "number": "(512) 478-5788",
+                "primary": true,
+                "trackable": null,
+                "type": "Office"
+              }
+            ]
+          }
+        }
+      ],
+      "suppression_flags": {
+        "has_suppress_sold_price": true,
+        "has_suppress_last_sold_price": true,
+        "has_suppress_sold_info": true,
+        "has_suppress_schools": true
+      },
+      "property_id": "8579421321",
+      "listing_id": "2921573766",
+      "status": "for_rent",
+      "coming_soon_date": null,
+      "permalink": "210-Lavaca-St-Apt-1810_Austin_TX_78701_M85794-21321",
+      "products": {
+        "brand_name": "basic_opt_in"
+      },
+      "list_price": 6200,
+      "list_price_min": null,
+      "list_price_max": null,
+      "price_per_sqft": 4,
+      "list_date": "2020-09-21T17:31:20Z",
+      "other_listings": {
+        "rdc": [
+          {
+            "listing_id": "2921573766",
+            "status": "for_rent"
+          },
+          {
+            "listing_id": "628563103",
+            "status": "off_market"
+          },
+          {
+            "listing_id": "601888391",
+            "status": "off_market"
+          },
+          {
+            "listing_id": "551944091",
+            "status": "off_market"
+          }
+        ]
+      },
+      "community": null,
+      "matterport": null,
+      "virtual_tours": null,
+      "lead_attributes": {
+        "opcity_lead_attributes": {
+          "flip_the_market_enabled": true,
+          "cashback_enabled": false,
+          "phones": [
+            {
+              "number": "(855)928-3308",
+              "category": "comm_console"
+            }
+          ]
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true,
+        "lead_type": "rental_basic_mls",
+        "show_lead_form": true,
+        "disclaimer_text": null,
+        "is_tcpa_message_enabled": null,
+        "show_text_leads": true
+      },
+      "flags": {
+        "is_pending": null,
+        "is_contingent": null,
+        "is_new_listing": false,
+        "is_new_construction": null,
+        "is_short_sale": null,
+        "is_foreclosure": null,
+        "is_price_reduced": null,
+        "is_senior_community": null,
+        "is_deal_available": null,
+        "is_price_excludes_land": null,
+        "is_subdivision": null,
+        "is_coming_soon": null
+      },
+      "source": {
+        "id": "AUTX",
+        "disclaimer": {
+          "text": "© 2020, Austin Board of REALTORS®, Inc., All Rights Reserved.",
+          "href": null
+        },
+        "listing_id": "6514458",
+        "name": "Austin",
+        "type": "mls",
+        "spec_id": null,
+        "plan_id": null,
+        "raw": {
+          "style": "Elevator",
+          "tax_amount": null
+        }
+      },
+      "details": [
+        {
+          "category": "Interior Features",
+          "text": [
+            "Ceiling-High",
+            "Entrance Foyer",
+            "Primary Bedroom on Main",
+            "Walk-In Closet(s)",
+            "Furnished Description: Unfurnished",
+            "Flooring: Carpet, Stone, Wood",
+            "Window Features: Window Treatments"
+          ]
+        },
+        {
+          "category": "Appliances",
+          "text": [
+            "Built-In Oven(s)",
+            "Convection Oven",
+            "Dishwasher",
+            "Disposal",
+            "ENERGY STAR Qualified Appliances",
+            "Exhaust Fan",
+            "Cooktop Gas",
+            "Oven",
+            "Refrigerator",
+            "Water Heater-Electric",
+            "Laundry Features: In Bathroom, Main Level"
+          ]
+        },
+        {
+          "category": "Bedrooms",
+          "text": [
+            "Bedrooms: 2",
+            "Bedrooms On Main Level: 2"
+          ]
+        },
+        {
+          "category": "Bathrooms",
+          "text": [
+            "Total Bathrooms: 2 / 1",
+            "Full Bathrooms: 2",
+            "1/2 Bathrooms: 1"
+          ]
+        },
+        {
+          "category": "Heating and Cooling",
+          "text": [
+            "Cooling Features: Central Air",
+            "Heating Features: Central, Electric"
+          ]
+        },
+        {
+          "category": "Other Rooms",
+          "text": [
+            "Exercise Room: Yes"
+          ]
+        },
+        {
+          "category": "Pool and Spa",
+          "text": [
+            "Pool Features: Cabana"
+          ]
+        },
+        {
+          "category": "Garage and Parking",
+          "text": [
+            "Covered Spaces: 2",
+            "Parking Features: Garage, Reserved",
+            "Parking Total: 2"
+          ]
+        },
+        {
+          "category": "Exterior and Lot Features",
+          "text": [
+            "Patio And Porch Features: Covered"
+          ]
+        },
+        {
+          "category": "Home Features",
+          "text": [
+            "View: City, Hill Country"
+          ]
+        },
+        {
+          "category": "School Information",
+          "text": [
+            "Elementary School: Mathews",
+            "High School: Austin",
+            "Middle School: O Henry",
+            "School District: Austin ISD"
+          ]
+        },
+        {
+          "category": "Homeowners Association",
+          "text": [
+            "Association: Yes",
+            "Pets Allowed: No"
+          ]
+        },
+        {
+          "category": "Multi-Unit Info",
+          "text": [
+            "Number of Units: 159"
+          ]
+        },
+        {
+          "category": "Rental Info",
+          "text": [
+            "Lease Term: Negotiable, Max Lease Months: 12, Min Lease Months: 6",
+            "Tenant Pays: All Utilities",
+            "Security Deposit: 6200",
+            "Application Fee: 45"
+          ]
+        },
+        {
+          "category": "Amenities and Community Features",
+          "text": [
+            "Community Features: Curbs, Fitness Center, Pool, Storage"
+          ]
+        },
+        {
+          "category": "Other Property Info",
+          "text": [
+            "Source Listing Status: Active",
+            "County: Travis",
+            "Availability Date: 2020-09-21",
+            "Directions: The valet for the W Residences and Hotel is located on Lavaca Street between 2nd and 3rd Street.",
+            "Source Property Type: Condominium",
+            "Area: DT",
+            "Property Subtype: condo",
+            "Source Neighborhood: Condo",
+            "Owner Pays: Association Fees",
+            "Parcel Number: 02050114190000",
+            "Subdivision: Condo",
+            "Source System Name: C2C"
+          ]
+        },
+        {
+          "category": "Building and Construction",
+          "text": [
+            "Total Square Feet Living: 1423.00",
+            "Year Built: 2011",
+            "Building Area Total: 1423",
+            "Construction Materials: Metal Siding",
+            "Direction Faces: North",
+            "Foundation Details: Pillar/Post/Pier, Slab",
+            "Levels: One",
+            "Living Area Source: Builder",
+            "Property Age: 9",
+            "Roof: Membrane",
+            "Structure Type: Residential Lease",
+            "House Style: Elevator",
+            "Elevator: Yes"
+          ]
+        },
+        {
+          "category": "Utilities",
+          "text": [
+            "Sewer: Public Sewer",
+            "Underground Utilities",
+            "Water Source: Public"
+          ]
+        }
+      ],
+      "open_houses": null,
+      "tax_history": [
+        {
+          "tax": 19626,
+          "year": 2020,
+          "assessment": null
+        },
+        {
+          "tax": 19626,
+          "year": 2019,
+          "assessment": {
+            "building": 879727,
+            "land": 35273,
+            "total": 915000
+          }
+        },
+        {
+          "tax": 19913,
+          "year": 2018,
+          "assessment": {
+            "building": 869899,
+            "land": 29501,
+            "total": 899400
+          }
+        },
+        {
+          "tax": 21033,
+          "year": 2017,
+          "assessment": {
+            "building": 920499,
+            "land": 29501,
+            "total": 950000
+          }
+        },
+        {
+          "tax": 20795,
+          "year": 2016,
+          "assessment": {
+            "building": 0,
+            "land": 0,
+            "total": 905674
+          }
+        },
+        {
+          "tax": 18905,
+          "year": 2015,
+          "assessment": {
+            "building": 0,
+            "land": 0,
+            "total": 823340
+          }
+        },
+        {
+          "tax": 18205,
+          "year": 2014,
+          "assessment": {
+            "building": 740014,
+            "land": 24986,
+            "total": 765000
+          }
+        },
+        {
+          "tax": 16557,
+          "year": 2013,
+          "assessment": {
+            "building": 655460,
+            "land": 24986,
+            "total": 680446
+          }
+        },
+        {
+          "tax": 20825,
+          "year": 2012,
+          "assessment": {
+            "building": 662134,
+            "land": 24986,
+            "total": 687120
+          }
+        }
+      ],
+      "hoa": null,
+      "property_history": [
+        {
+          "date": "2020-09-21",
+          "event_name": "Listed for rent",
+          "price": 6200,
+          "source_name": "Austin",
+          "price_sqft": 4.356992269852425
+        },
+        {
+          "date": "2018-04-11",
+          "event_name": "Listing removed",
+          "price": 6200,
+          "source_name": "Austin",
+          "price_sqft": 4.356992269852425
+        },
+        {
+          "date": "2018-03-19",
+          "event_name": "Price Changed for rent",
+          "price": 6200,
+          "source_name": "Austin",
+          "price_sqft": 4.356992269852425
+        },
+        {
+          "date": "2018-01-11",
+          "event_name": "Listed for rent",
+          "price": 6500,
+          "source_name": "Austin",
+          "price_sqft": 4.567814476458187
+        },
+        {
+          "date": "2016-01-14",
+          "event_name": "Listing removed",
+          "price": 6000,
+          "source_name": "Austin",
+          "price_sqft": 3.937007874015748
+        },
+        {
+          "date": "2015-11-16",
+          "event_name": "Price Changed for rent",
+          "price": 6500,
+          "source_name": "Austin",
+          "price_sqft": 4.2650918635170605
+        },
+        {
+          "date": "2015-09-22",
+          "event_name": "Listed for rent",
+          "price": 7000,
+          "source_name": "Austin",
+          "price_sqft": 4.593175853018373
+        },
+        {
+          "date": "2012-10-06",
+          "event_name": "Listing removed",
+          "price": 6000,
+          "source_name": "Austin",
+          "price_sqft": 4.2164441321152495
+        },
+        {
+          "date": "2012-08-08",
+          "event_name": "Price Changed for rent",
+          "price": 6000,
+          "source_name": "Austin",
+          "price_sqft": 4.2164441321152495
+        },
+        {
+          "date": "2012-07-16",
+          "event_name": "Price Changed for rent",
+          "price": 6300,
+          "source_name": "Austin",
+          "price_sqft": 4.427266338721012
+        },
+        {
+          "date": "2012-06-13",
+          "event_name": "Listed for rent",
+          "price": 6500,
+          "source_name": "Austin",
+          "price_sqft": 4.567814476458187
+        },
+        {
+          "date": "2011-01-10",
+          "event_name": "Sold",
+          "price": 0,
+          "source_name": "Public Record",
+          "price_sqft": 0
+        }
+      ],
+      "location": {
+        "parcel": null,
+        "city": {
+          "slug_id": "Austin_TX"
+        },
+        "county": {
+          "name": "Travis",
+          "fips_code": null
+        },
+        "address": {
+          "line": "210 Lavaca St Apt 1810",
+          "street_number": "210",
+          "street_direction": null,
+          "street_name": "Lavaca",
+          "street_suffix": "St",
+          "street_post_direction": null,
+          "unit": "Apt 1810",
+          "city": "Austin",
+          "state_code": "TX",
+          "postal_code": "78701",
+          "country": "USA",
+          "validation_code": "111",
+          "state": "Texas",
+          "coordinate": null
+        },
+        "cross_street": null,
+        "driving_directions": null,
+        "neighborhoods": null
+      },
+      "branding": [
+        {
+          "type": "Agent",
+          "photo": null,
+          "name": "Katy McVey",
+          "phone": null,
+          "slogan": null,
+          "accent_color": null
+        },
+        {
+          "type": "Office",
+          "photo": null,
+          "name": "Amarra Realty Llc",
+          "phone": null,
+          "slogan": null,
+          "accent_color": null
+        }
+      ],
+      "provider_url": {
+        "href": "www.austinhomesearch.com/6514458"
+      },
+      "builder": null,
+      "tags": [
+        "central_air",
+        "central_heat",
+        "city_view",
+        "community_elevator",
+        "community_gym",
+        "community_outdoor_space",
+        "community_swimming_pool",
+        "dishwasher",
+        "garage_1_or_more",
+        "hardwood_floors",
+        "hill_or_mountain_view",
+        "laundry_room",
+        "recreation_facilities",
+        "single_story",
+        "view"
+      ],
+      "videos": null,
+      "consumer_advertisers": [
+        {
+          "advertiser_id": "1563306",
+          "agent_id": "1563306",
+          "broker_id": null,
+          "name": "Katy McVey",
+          "type": "Agent",
+          "slogan": null,
+          "phone": null,
+          "href": "/realestateagents/Katy-Mc-Vey_Austin_TX_1563306",
+          "address": null,
+          "photo": {
+            "description": null,
+            "href": null,
+            "type": null
+          },
+          "show_realtor_logo": false,
+          "hours": null,
+          "contact_name": null
+        },
+        {
+          "advertiser_id": "1563306",
+          "agent_id": "1563306",
+          "broker_id": null,
+          "name": "Amarra Realty Llc",
+          "type": "Office",
+          "slogan": null,
+          "phone": "(512) 478-5788",
+          "href": "www.austinhomesearch.com/6514458",
+          "address": null,
+          "photo": {
+            "description": null,
+            "href": null,
+            "type": null
+          },
+          "show_realtor_logo": false,
+          "hours": null,
+          "contact_name": null
+        }
+      ],
+      "unit_count": null,
+      "units": null,
+      "description": {
+        "baths": 3,
+        "baths_full": 2,
+        "baths_3qtr": null,
+        "baths_half": 1,
+        "baths_1qtr": null,
+        "baths_min": null,
+        "baths_max": null,
+        "beds_min": null,
+        "beds_max": null,
+        "beds": 2,
+        "garage": null,
+        "pool": null,
+        "sqft": 1423,
+        "sqft_min": null,
+        "sqft_max": null,
+        "lot_sqft": null,
+        "rooms": null,
+        "stories": 1,
+        "sub_type": "condo",
+        "text": "Fantastic opportunity to experience downtown living at its best! 2 bed/2.5 bath residence featuring floor to ceiling windows, 10.6 foot ceilings, covered terrace, wood flooring and Carrara marble tile and counters throughout. Gourmet kitchen with Miele appliances and custom Bulthaup cabinetry. Large master suite with walk in closet. Access to all the W amenities including 24/7 concierge, private residential pool, full spa and fitness center, and room service. CALL AGENT TO SCHEDULE.",
+        "type": "condos",
+        "units": 159,
+        "unit_type": null,
+        "year_built": 2011,
+        "name": null
+      },
+      "photo_count": 35,
+      "photos": [
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2616158312s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1341206587s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1624598599s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2293591128s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3594311953s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3273549835s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1729871779s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1159235270s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1033779456s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3403709085s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3383062108s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2777105660s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m348991402s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m4140448s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m481339038s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m4034147410s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2635211557s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m431969962s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3679172901s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m442941384s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m802221908s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1867250909s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1046271564s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m90875889s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3043867724s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2779535821s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1494253852s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3186701396s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m4294359460s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2944931434s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m870039553s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m2616169252s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m3077812376s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m1967948659s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        },
+        {
+          "description": null,
+          "href": "https://ap.rdcpix.com/74f70d4417f059ef291caa67c5fd42c0l-m988837345s.jpg",
+          "type": "realtordotcom_mls_listing_image",
+          "title": null,
+          "tags": null
+        }
+      ],
+      "schools": null
+    }
+  }
+}
